@@ -9,6 +9,11 @@ import lombok.Setter;
 
 import java.math.BigDecimal;
 
+/**
+ * Account super class
+ *
+ * @author Wagner Maciel
+ */
 @Data
 public abstract class Account implements AccountTemplate {
     @Setter(AccessLevel.NONE)

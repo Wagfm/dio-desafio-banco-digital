@@ -4,6 +4,11 @@ import br.com.dio.agencies.Agency;
 
 import java.math.BigDecimal;
 
+/**
+ * Bank class
+ *
+ * @author Wagner Maciel
+ */
 public class Bank {
 
     private static short nextAgencyNumber = 2509;

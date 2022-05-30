@@ -9,6 +9,11 @@ import java.math.BigDecimal;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Agency class
+ *
+ * @author Wagner Maciel
+ */
 @Data
 public class Agency {
     private static int nextAccountNumber = 1000;

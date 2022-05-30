@@ -2,6 +2,11 @@ package br.com.dio.accounts;
 
 import java.math.BigDecimal;
 
+/**
+ * SavingsAccount class
+ *
+ * @author Wagner Maciel
+ */
 public class SavingsAccount extends Account {
 
     public SavingsAccount(String clientName, String clientCPF, String password, short agencyNumber, int accountNumber) {

@@ -2,6 +2,11 @@ package br.com.dio.clients;
 
 import lombok.Data;
 
+/**
+ * BankClient class
+ *
+ * @author Wagner Maciel
+ */
 @Data
 public class BankClient {
     private final String clientName;

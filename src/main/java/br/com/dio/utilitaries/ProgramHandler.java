@@ -8,6 +8,11 @@ import lombok.Setter;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
+/**
+ * ProgramHandler class
+ *
+ * @author Wagner Maciel
+ */
 public class ProgramHandler {
     @Setter(AccessLevel.NONE)
     private UserInterfaceTemplate userInterface;

@@ -2,6 +2,11 @@ package br.com.dio.accounts;
 
 import java.math.BigDecimal;
 
+/**
+ * CheckingAccount class
+ *
+ * @author Wagner Maciel
+ */
 public class CheckingAccount extends Account {
     private final int accountLimit;
 

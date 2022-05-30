@@ -2,6 +2,11 @@ package br.com.dio.templates;
 
 import java.math.BigDecimal;
 
+/**
+ * AccountTemplate interface
+ *
+ * @author Wagner Maciel
+ */
 public interface AccountTemplate {
 
     void depositToAccount(double value);

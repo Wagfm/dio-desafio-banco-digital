@@ -5,6 +5,11 @@ import br.com.dio.templates.UserInterfaceTemplate;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Terminal class
+ *
+ * @author Wagner Maciel
+ */
 public class Terminal implements UserInterfaceTemplate {
     private static Terminal terminalInstance;
     private final Scanner input;
